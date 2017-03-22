@@ -337,7 +337,7 @@
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
       <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Shoutcast" RelativePath=";">
-        http://192.99.62.212:9260/stream
+        http://198.27.65.120:20216/stream
       </Stream>
     </Streams>
   </Station>
