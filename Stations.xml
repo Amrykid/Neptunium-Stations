@@ -32,7 +32,7 @@
   <Station>
     <Name>Ani-Station</Name>
     <Description>Listen for Anime Openings, Endings, OST</Description>
-    <Logo><![CDATA[https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/13770512_1716434165285420_1996521440200989773_n.png?oh=65374511c2d1126bfdd385e86b93f591&oe=58D10065]]></Logo>
+    <Logo><![CDATA[http://i.radionomy.com/radio/110/A625A1F2-12C3-4874-8DD6-6DAEFC441FC3.png]]></Logo>
     <Site>http://ani-station.playtheradio.com/index.cfm</Site>
     <Genres>Anime; J-Pop; Soundtracks</Genres>
     <PrimaryLocale>JP</PrimaryLocale>
@@ -278,9 +278,9 @@
     <StationGroup>asia DREAM radio</StationGroup>
     <Description><![CDATA[J-Pop Christmas]]></Description>
     <Logo>
-      <![CDATA[http://www.asiadreamradio.com/stations/images/stations/jc2_g161i2.png]]>
+      <![CDATA[http://www.jpoppowerplay.tokyo/stations/images/stations/jc2_g152i1.png]]>
     </Logo>
-    <Site>http://www.asiadreamradio.com/stations/index.html</Site>
+    <Site>http://www.jpoppowerplay.tokyo/stations/index.html</Site>
     <Genres><![CDATA[J-Pop; Christmas]]></Genres>
     <Background>http://qantumthemes.com/demo/onair/wp-content/uploads/2015/06/wordpress-radio-theme-post-0041.jpg</Background>
     <PrimaryLocale>JP</PrimaryLocale>
@@ -295,9 +295,9 @@
     <StationGroup>asia DREAM radio</StationGroup>
     <Description><![CDATA[Japanese Pop]]></Description>
     <Logo>
-      <![CDATA[http://www.asiadreamradio.com/stations/images/stations/powerplayjpop16_g161i0.jpg]]>
+      <![CDATA[http://www.jpoppowerplay.tokyo/stations/images/stations/powerplayjpop16_g152i0.jpg]]>
     </Logo>
-    <Site>http://www.asiadreamradio.com/stations/index.html</Site>
+    <Site>http://www.jpoppowerplay.tokyo/stations/index.html</Site>
     <Genres><![CDATA[J-Pop; Pop]]></Genres>
     <Background>http://qantumthemes.com/demo/onair/wp-content/uploads/2015/06/wordpress-radio-theme-post-0041.jpg</Background>
     <PrimaryLocale>JP</PrimaryLocale>
@@ -312,9 +312,9 @@
     <StationGroup>asia DREAM radio</StationGroup>
     <Description><![CDATA[J-Pop Powerplay Kawaii]]></Description>
     <Logo>
-      <![CDATA[http://www.asiadreamradio.com/stations/images/stations/ppkawaii_g67i5.jpg]]>
+      <![CDATA[http://www.jpoppowerplay.tokyo/stations/images/stations/ppkawaii_g66i5.jpg]]>
     </Logo>
-    <Site>http://www.asiadreamradio.com/stations/index.html</Site>
+    <Site>http://www.jpoppowerplay.tokyo/stations/index.html</Site>
     <Genres><![CDATA[J-Pop; Kawaii]]></Genres>
     <Background>http://qantumthemes.com/demo/onair/wp-content/uploads/2015/06/wordpress-radio-theme-post-0041.jpg</Background>
     <PrimaryLocale>JP</PrimaryLocale>
@@ -329,9 +329,9 @@
     <StationGroup>asia DREAM radio</StationGroup>
     <Description><![CDATA[J-Club Powerplay HipHop]]></Description>
     <Logo>
-      <![CDATA[http://www.asiadreamradio.com/stations/images/stations/jclubhiphop_g67i2.jpg]]>
+      <![CDATA[http://www.jpoppowerplay.tokyo/stations/images/stations/jclubhiphop_g66i2.jpg]]>
     </Logo>
-    <Site>http://www.asiadreamradio.com/stations/index.html</Site>
+    <Site>http://www.jpoppowerplay.tokyo/stations/index.html</Site>
     <Genres><![CDATA[J-Pop; HipHop]]></Genres>
     <Background>http://qantumthemes.com/demo/onair/wp-content/uploads/2015/06/wordpress-radio-theme-post-0041.jpg</Background>
     <PrimaryLocale>JP</PrimaryLocale>
@@ -346,9 +346,9 @@
     <StationGroup>asia DREAM radio</StationGroup>
     <Description><![CDATA[Japan Hits]]></Description>
     <Logo>
-      <![CDATA[http://www.asiadreamradio.com/stations/images/stations/japanhits_g67i1.jpg]]>
+      <![CDATA[http://www.jpoppowerplay.tokyo/stations/images/stations/japanhits_g66i1.jpg]]>
     </Logo>
-    <Site>http://www.asiadreamradio.com/stations/index.html</Site>
+    <Site>http://www.jpoppowerplay.tokyo/stations/index.html</Site>
     <Genres><![CDATA[J-Pop; J-Rock; Pop; Hits]]></Genres>
     <Background>http://qantumthemes.com/demo/onair/wp-content/uploads/2015/06/wordpress-radio-theme-post-0041.jpg</Background>
     <PrimaryLocale>JP</PrimaryLocale>
@@ -378,9 +378,9 @@
     <StationGroup>asia DREAM radio</StationGroup>
     <Description><![CDATA[Japanese Rock]]></Description>
     <Logo>
-      <![CDATA[http://www.asiadreamradio.com/stations/images/stations/jrockpowerplay-2_g67i3.jpg]]>
+      <![CDATA[http://www.jpoppowerplay.tokyo/stations/images/stations/jrockpowerplay-2_g66i3.jpg]]>
     </Logo>
-    <Site>http://www.asiadreamradio.com/stations/index.html</Site>
+    <Site>http://www.jpoppowerplay.tokyo/stations/index.html</Site>
     <Genres><![CDATA[J-Rock; Rock; Hits]]></Genres>
     <Background>http://qantumthemes.com/demo/onair/wp-content/uploads/2015/06/wordpress-radio-theme-post-0041.jpg</Background>
     <PrimaryLocale>JP</PrimaryLocale>
