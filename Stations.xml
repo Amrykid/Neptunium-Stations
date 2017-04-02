@@ -9,8 +9,12 @@
     <Genres>Anime; J-Pop</Genres>
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
-      <Stream ContentType="audio/aacp" Bitrate="64" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html">http://stream.theradiator.org:8005/</Stream>
-      <Stream ContentType="audio/mpeg" Bitrate="192" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html">http://stream.theradiator.org:10008/</Stream>
+      <Stream ContentType="audio/aacp" Bitrate="64" SampleRate="44100" RelativePath="anime.aac" ServerType="Icecast">
+        http://192.243.109.237:8000/
+      </Stream>
+      <Stream ContentType="audio/mpeg" Bitrate="192" SampleRate="44100" RelativePath="anime.mp3" ServerType="Icecast">
+        http://192.243.109.237:8000/
+      </Stream>
     </Streams>
     <StationMessages>
       <Message>AnimeAMAZE - Triple-M - AnimeAMAZE Internet Radio</Message>
@@ -135,7 +139,7 @@
       <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" RelativePath="" ServerType="Radionomy">http://streaming.radionomy.com/RadioVocaloid</Stream>
     </Streams>
   </Station>
-  <Station>
+  <!--<Station>
     <Name>70s-90s J-pop Stream</Name>
     <Description>JPOP Japanese 70s 80s 90s</Description>
     <Logo>
@@ -150,7 +154,7 @@
         http://s5.voscast.com:7002
       </Stream>
     </Streams>
-  </Station>
+  </Station>-->
   <Station>
     <Name>J-Jams</Name>
     <Description><![CDATA[Modern J-POP and R&B]]></Description>
@@ -182,8 +186,8 @@
     <Background></Background>
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Shoutcast" RelativePath=";">
-        http://69.4.225.75:8100/
+      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Shoutcast" RelativePath="stream;">
+        http://174.37.159.206:8052/
       </Stream>
     </Streams>
   </Station>
@@ -469,26 +473,23 @@
       </Stream>
     </Streams>
   </Station>
-  <Station>
+  <!--<Station>
     <Name>NyanServer J-Trance</Name>
     <Description><![CDATA[Japanese Trance and Electronic music]]></Description>
     <Logo>
       <![CDATA[http://cdn-radiotime-logos.tunein.com/s205032q.png]]>
     </Logo>
     <Site>http://radio.nyan.pw</Site>
-    <!--https://twitter.com/nyanprojects-->
-    <!--http://nyanserver.com:8000/-->
+    https://twitter.com/nyanprojects
+    http://nyanserver.com:8000/
     <Genres><![CDATA[J-Trance; Trance; Nyancore; Electronic]]></Genres>
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="48000" ServerType="Icecast" RelativePath="nyan.mp3">
-        http://nyanserver.com:8000/
-      </Stream>
-      <Stream ContentType="audio/aac" Bitrate="128" SampleRate="48000" ServerType="Icecast" RelativePath="nyan">
-        http://nyanserver.com:8000/
+      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Icecast" RelativePath="station/stream">
+        http://radio.nyan.pw/
       </Stream>
     </Streams>
-  </Station>
+  </Station>-->
   <Station>
     <Name>Vocaloid Radio</Name>
     <Description><![CDATA[Fan ran, non-profit Vocaloid Radio station.]]></Description>
