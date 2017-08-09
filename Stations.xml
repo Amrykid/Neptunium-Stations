@@ -34,17 +34,6 @@
     </Streams>
   </Station>
   <Station>
-    <Name>Ani-Station</Name>
-    <Description>Listen for Anime Openings, Endings, OST</Description>
-    <Logo><![CDATA[http://i.radionomy.com/radio/110/A625A1F2-12C3-4874-8DD6-6DAEFC441FC3.png]]></Logo>
-    <Site>http://ani-station.playtheradio.com/index.cfm</Site>
-    <Genres>Anime; J-Pop; Soundtracks</Genres>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="192" SampleRate="44100" ServerType="Radionomy">http://listen.radionomy.com:80/Ani-Station</Stream>
-    </Streams>
-  </Station>
-  <Station>
     <Name>J1 Radio</Name>
     <StationGroup>J1</StationGroup>
     <Description>Japan's Hottest Hits</Description>
@@ -66,30 +55,6 @@
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
       <Stream ContentType="audio/mpeg" Bitrate="192" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html">http://cabhs31.sonixcast.com:20080/</Stream>
-    </Streams>
-  </Station>
-  <Station>
-    <Name>J1 GOLD</Name>
-    <StationGroup>J1</StationGroup>
-    <Description>Greatest Hits - 1990s 2000s</Description>
-    <Logo><![CDATA[http://j1fm.tokyo/images/listenbox-j1g.jpg]]></Logo>
-    <Site>http://en.j1fm.com/</Site>
-    <Genres>Enka; J-Pop; Pop</Genres>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="192" SampleRate="44100" ServerType="Radionomy">http://streaming.radionomy.com/J1GOLDJapanOldies?lang=en-US%2cen%3bq%3d0.7%2cja%3bq%3d0.3</Stream>
-    </Streams>
-  </Station>
-  <Station>
-    <Name>Japan-A-Radio</Name>
-    <Description>The best Japanese music from JPOP to Anime Soundtracks.</Description>
-    <Logo>http://www.japanaradio.com/images/logo02.png</Logo>
-    <Site>http://www.japanaradio.com/index.php</Site>
-    <Genres>J-Pop; Anime</Genres>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/aac" Bitrate="48" SampleRate="44100" RelativePath="japan48k" ServerType="Icecast">http://audio.misproductions.com</Stream>
-      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" RelativePath="japan128k" ServerType="Icecast">http://audio.misproductions.com/</Stream>
     </Streams>
   </Station>
   <Station>
@@ -123,7 +88,7 @@
     <Background>http://www.radiohayama.com/sites/default/files/vegas/fullmoon1.jpg</Background>
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" RelativePath="" ServerType="Shoutcast" HistoryPath="/played.html?sid=1">http://199.195.194.140:8085/</Stream>
+      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" RelativePath="" ServerType="Shoutcast" HistoryPath="/played.html?sid=1">http://199.195.194.140:8073/;</Stream>
     </Streams>
   </Station>
   <Station>
@@ -132,48 +97,12 @@
     <Logo>http://4.bp.blogspot.com/-wN_jxmS7poI/VS0FZWHKVOI/AAAAAAAACXA/bM1ZVr3mNWU/s238/radio-vocaloid-logo.png</Logo>
     <Background>https://2.bp.blogspot.com/-baIw_szPZKI/VuT551_pjYI/AAAAAAAACvQ/oaqnEq0Rv-M_tCGaSdma-nqVXVLNZHUxw/s1600/radio-vocaloid.jpg</Background>
     <Site>http://www.radiovocaloid.com/</Site>
-    <Genres>Anime; J-Pop</Genres>
+    <Genres>Anime; J-Pop; Vocaloid</Genres>
     <Background>http://1.bp.blogspot.com/-Ij-IW-Gpwcw/VUyEgLzhlyI/AAAAAAAACYg/xh7KhIcU6qE/s1600/radio-vocaloid.png</Background>
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
       <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" RelativePath="" ServerType="Radionomy">http://streaming.radionomy.com/RadioVocaloid</Stream>
     </Streams>
-  </Station>
-  <!--<Station>
-    <Name>70s-90s J-pop Stream</Name>
-    <Description>JPOP Japanese 70s 80s 90s</Description>
-    <Logo>
-      <![CDATA[https://pbs.twimg.com/profile_images/1887887294/Twitter_Icon.jpg]]>
-    </Logo>
-    <Site>http://www.breeze-crew.net/shoutcast/player/70s90s.php</Site>
-    <Genres>J-Pop;J-Rock</Genres>
-    <Background></Background>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="64" SampleRate="22050" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html?sid=1">
-        http://s5.voscast.com:7002
-      </Stream>
-    </Streams>
-  </Station>-->
-  <Station>
-    <Name>J-Jams</Name>
-    <Description><![CDATA[Modern J-POP and R&B]]></Description>
-    <Logo>
-      <![CDATA[http://static.radio.net/images/broadcasts/f8/95/34154/c175.png]]>
-    </Logo>
-    <Site>http://jjamsradio.weebly.com</Site>
-    <Genres><![CDATA[J-Pop;R&B]]></Genres>
-    <Background></Background>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html?sid=1">
-        http://216.126.195.37:8078/
-      </Stream>
-    </Streams>
-    <StationMessages>
-      <Message><![CDATA[Modern Japanese Pop and R&B]]></Message>
-      <Message><![CDATA[J-Jams Radio - Modern Japanese Pop and R&B]]></Message>
-    </StationMessages>
   </Station>
   <Station>
     <Name>Extreme Anime Radio</Name>
@@ -216,6 +145,7 @@
   <Station>
     <Name>J-Pop Project Radio</Name>
     <Description><![CDATA[J-POP]]></Description>
+    <StationGroup>Project Radio</StationGroup>
     <Logo>
       <![CDATA[https://i3.radionomy.com/radios/400/f8bdd477-4c7b-4581-8f18-f72a196d6fe2.jpg]]>
     </Logo>
@@ -225,7 +155,29 @@
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
       <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Radionomy">
-        http://streaming.radionomy.com/J-PopProjectRadio
+        http://cabhs32.sonixcast.com:20004/stream/; 
+      </Stream>
+    </Streams>
+    <StationMessages>
+      <Message><![CDATA[Station Christmas 1]]></Message>
+      <Message><![CDATA[Station Christmas 2]]></Message>
+      <Message><![CDATA[Station Christmas 3]]></Message>
+    </StationMessages>
+  </Station>
+  <Station>
+    <Name>J-Idols Project Radio</Name>
+    <Description><![CDATA[J-POP]]></Description>
+    <StationGroup>Project Radio</StationGroup>
+    <Logo>
+      <![CDATA[https://i3.radionomy.com/radios/400/99305083-303f-4cb0-a3b5-751232565053.jpg]]>
+    </Logo>
+    <Site>http://www.j-popprojectradio.com/</Site>
+    <Genres><![CDATA[J-Pop]]></Genres>
+    <Background></Background>
+    <PrimaryLocale>JP</PrimaryLocale>
+    <Streams>
+      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Radionomy">
+        http://cabhs33.sonixcast.com:20012/stream/; 
       </Stream>
     </Streams>
     <StationMessages>
@@ -246,9 +198,6 @@
     <Background>http://qantumthemes.com/demo/onair/wp-content/uploads/2015/06/wordpress-radio-theme-post-0041.jpg</Background>
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="64" SampleRate="44100" ServerType="Shoutcast" RelativePath=";">
-        http://64.71.79.181:8024/
-      </Stream>
       <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Shoutcast" RelativePath=";">
         http://64.71.79.181:8018/
       </Stream>
