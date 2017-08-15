@@ -26,7 +26,7 @@
     <Logo>http://cdn.marketplaceimages.windowsphone.com/v8/images/dbf3e042-cd31-4d33-9609-f7f956512cf9?imageType=ws_icon_large</Logo>
     <Site>https://www.animenfo.com/radio/</Site>
     <Genres>Anime; J-Pop</Genres>
-    <Background>https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/11794280_10153204164989340_1991244880725710252_o.jpg?oh=92ded8a723fbdc0d689423d79e13333b&oe=5A31312F</Background>
+    <Background><![CDATA[https://scontent-atl3-1.xx.fbcdn.net/v/t31.0-8/11794280_10153204164989340_1991244880725710252_o.jpg?oh=92ded8a723fbdc0d689423d79e13333b&oe=5A31312F]]></Background>
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
       <Stream ContentType="audio/aacp" Bitrate="64" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html">http://emaru.animenfo.com:443/</Stream>
