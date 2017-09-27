@@ -474,12 +474,12 @@
     <Description>Anime soundtracks and Japanese songs</Description>
     <Logo>https://r-a-d.io/assets/logo_image_small.png</Logo>
     <Site>https://r-a-d.io/</Site>
-    https://twitter.com/Hanyuu_status
+    <Twitter>https://twitter.com/Hanyuu_status</Twitter>
     <Genres>Anime; Soundtrack; Japanese; J-Pop; Mix</Genres>
     <Background>https://pbs.twimg.com/profile_banners/833161442387980288/1487481271/1500x500</Background>
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
-      <Stream ContentType="audio/mpeg" ServerType="Icecast" RelativePath="main.mp3">http://relay0.r-a-d.io/</Stream>
+      <Stream ContentType="audio/mpeg" ServerType="Icecast" RelativePath="main.mp3" RequestMetadata="False">http://relay0.r-a-d.io/</Stream>
     </Streams>
   </Station>-->
 </Stations>
