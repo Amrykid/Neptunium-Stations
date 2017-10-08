@@ -120,6 +120,9 @@
         http://174.37.159.206:8052/
       </Stream>
     </Streams>
+    <StationMessages>
+      <Message><![CDATA[Extreme Anime Radio]]></Message>
+    </StationMessages>
   </Station>
   <Station>
     <Name>Yggdrasil Radio</Name>
