@@ -243,6 +243,9 @@
         http://149.56.23.7:20278/stream
       </Stream>
     </Streams>
+    <StationMessages>
+      <Message><![CDATA[asia DREAM radio]]></Message>
+    </StationMessages>
   </Station>
   <Station>
     <Name>J-Pop Powerplay</Name>
@@ -260,6 +263,9 @@
         http://cabhs30.sonixcast.com:9628/stream
       </Stream>
     </Streams>
+    <StationMessages>
+      <Message><![CDATA[asia DREAM radio]]></Message>
+    </StationMessages>
   </Station>
   <Station>
     <Name>J-Pop Powerplay Kawaii</Name>
@@ -277,6 +283,9 @@
         http://149.56.23.7:20002/stream
       </Stream>
     </Streams>
+    <StationMessages>
+      <Message><![CDATA[asia DREAM radio]]></Message>
+    </StationMessages>
   </Station>
   <Station>
     <Name>J-Club Powerplay HipHop</Name>
@@ -294,6 +303,9 @@
         http://198.27.65.120:20216/stream
       </Stream>
     </Streams>
+    <StationMessages>
+      <Message><![CDATA[asia DREAM radio]]></Message>
+    </StationMessages>
   </Station>
   <Station>
     <Name>Japan Hits</Name>
@@ -325,6 +337,7 @@
       <Message><![CDATA[Happy New Year]]></Message>
       <Message><![CDATA[This is asia DREAM radio]]></Message>
       <Message><![CDATA[asiadreamradio.com]]></Message>
+      <Message><![CDATA[asia DREAM radio]]></Message>
     </StationMessages>
   </Station>
   <Station>
@@ -343,6 +356,9 @@
         http://192.99.62.212:9508/stream
       </Stream>
     </Streams>
+    <StationMessages>
+      <Message><![CDATA[asia DREAM radio]]></Message>
+    </StationMessages>
   </Station>
   <Station>
     <Name>LISTEN.moe</Name>
