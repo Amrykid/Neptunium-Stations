@@ -123,6 +123,9 @@
     <StationMessages>
       <Message><![CDATA[Extreme Anime Radio]]></Message>
     </StationMessages>
+    <Programs>
+      <Program Host="DJ Jinnai" Name="The Jinfluence" />
+    </Programs>
   </Station>
   <Station>
     <Name>Yggdrasil Radio</Name>
