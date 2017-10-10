@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Stations>
+  <Station>
+    <Name></Name><!--Required: Station Name-->
+    <Description></Description> <!--Required: Station Description-->
+    <Logo></Logo> <!--Required: Station's Logo-->
+    <Background></Background> <!--Optional Background For Now Playing Page-->
+    <Site></Site> <!--Required: Station's website-->
+    <Genres></Genres> <!--Required: Genres separated by semicolons-->
+    <PrimaryLocale></PrimaryLocale> <!--Required: The locale that the music primarily played 
+    on this station comes from. This is used for metadata-->
+    <Streams> <!--Streams available from this station.-->
+      <Stream ContentType="audio/aacp"
+              Bitrate="64"
+              SampleRate="44100"
+              RelativePath="anime.aac"
+              ServerType="Icecast">
+      </Stream>
+    </Streams>
+    <StationMessages>
+      <!--Messages sent by the station as metadata that shouldn't be displayed or added to song history.-->
+      <Message>AnimeAMAZE - Triple-M - AnimeAMAZE Internet Radio</Message>
+    </StationMessages>
+    <Programs>
+      <!--Station programming. These are treated like station messages 
+      except they are announced when they begin.-->
+      <Program Host="DJ Jinnai" Name="The Jinfluence" />
+    </Programs>
+  </Station>
+</Stations>

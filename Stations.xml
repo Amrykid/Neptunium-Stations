@@ -122,6 +122,7 @@
     </Streams>
     <StationMessages>
       <Message><![CDATA[Extreme Anime Radio]]></Message>
+      <Message><![CDATA[You're Listening to Extreme Anime Radio!]]></Message>
     </StationMessages>
     <Programs>
       <Program Host="DJ Jinnai" Name="The Jinfluence" />
