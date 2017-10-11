@@ -313,6 +313,8 @@
     <StationMessages>
       <Message><![CDATA[asia DREAM radio]]></Message>
       <Message><![CDATA[HipHop]]></Message>
+      <Message>J-Club Short</Message>
+      <Message>asia DREAM radio J-Club</Message>
     </StationMessages>
   </Station>
   <Station>
