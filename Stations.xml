@@ -122,7 +122,10 @@
     </Streams>
     <StationMessages>
       <Message><![CDATA[Extreme Anime Radio]]></Message>
+      <Message>Visit the GT Lounge on Extreme Anime Radio</Message>
+      <Message>Coming Up: Anime Retro Classics</Message>
       <Message><![CDATA[You're Listening to Extreme Anime Radio!]]></Message>
+      <Message>Sarah Yoshida [09-2016]</Message>
     </StationMessages>
     <Programs>
       <Program Host="DJ Jinnai" Name="The Jinfluence" />
