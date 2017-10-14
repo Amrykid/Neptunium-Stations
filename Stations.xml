@@ -128,7 +128,7 @@
       <Message>Sarah Yoshida [09-2016]</Message>
     </StationMessages>
     <Programs>
-      <Program Host="DJ Jinnai" Name="The Jinfluence" />
+      <Program Host="DJ Jinnai" Name="The Jinfluence" HostExp="(DJ\S)?Jinnai" />
     </Programs>
   </Station>
   <Station>
