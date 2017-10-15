@@ -107,13 +107,13 @@
   </Station>
   <Station>
     <Name>Extreme Anime Radio</Name>
-    <Description><![CDATA[Your Anime & J-POP Radio Station]]></Description>
+    <Description><![CDATA[Keiichi.net EX² : Extreme Anime Radio is an all request, live feed station that plays your Anime, J-Pop, and J-Rock favorites from our extensive playlist of over 4000 songs. Featuring songs from Clamp Campus Detectives, Shoujo Kakumeai Utena (Girl's Revolution Utena), Gundam Wing, and Mamotte Shugogetten, we provides hours of listening pleasure without fear of hearing the same song once every three hours.]]></Description>
     <Logo>
       <![CDATA[https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/20882903_10155432701016061_7170347500722479728_n.png?oh=9c708a8cf2696f2e4d42414311ddf809&oe=5A302B5C]]>
     </Logo>
     <Site>http://www.animeradio.net/index.php</Site>
     <Genres><![CDATA[Anime; J-Pop]]></Genres>
-    <Background></Background>
+    <Background>http://www.animeradio.net/graphics/background.jpg</Background>
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
       <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Shoutcast" RelativePath="stream;">
@@ -200,7 +200,7 @@
   <Station>
     <Name>Big B Radio - JPop</Name>
     <StationGroup>Big B Radio</StationGroup>
-    <Description><![CDATA[J-POP]]></Description>
+    <Description><![CDATA[Streaming continuous Japanese Pop & Rock hits from Japan/Asia!]]></Description>
     <Logo>
       <![CDATA[http://cdn-radiotime-logos.tunein.com/s135097q.png]]>
     </Logo>
@@ -217,7 +217,7 @@
   <Station>
     <Name>Big B Radio - KPop</Name>
     <StationGroup>Big B Radio</StationGroup>
-    <Description><![CDATA[K-POP]]></Description>
+    <Description><![CDATA[Streaming continuous Korean Pop & Rock hits from South Korea/Asia!]]></Description>
     <Logo>
       <![CDATA[http://cdn-radiotime-logos.tunein.com/s135096q.png]]>
     </Logo>
