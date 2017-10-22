@@ -105,19 +105,6 @@
     </Streams>
   </Station>
   <Station>
-    <Name>RadioVocaloid</Name>
-    <Description>Radio Vocaloid station online listen vocaloid music streaming radio.</Description>
-    <Logo>http://4.bp.blogspot.com/-wN_jxmS7poI/VS0FZWHKVOI/AAAAAAAACXA/bM1ZVr3mNWU/s238/radio-vocaloid-logo.png</Logo>
-    <Background>https://2.bp.blogspot.com/-baIw_szPZKI/VuT551_pjYI/AAAAAAAACvQ/oaqnEq0Rv-M_tCGaSdma-nqVXVLNZHUxw/s1600/radio-vocaloid.jpg</Background>
-    <Site>http://www.radiovocaloid.com/</Site>
-    <Genres>Anime; J-Pop; Vocaloid</Genres>
-    <Background>http://1.bp.blogspot.com/-Ij-IW-Gpwcw/VUyEgLzhlyI/AAAAAAAACYg/xh7KhIcU6qE/s1600/radio-vocaloid.png</Background>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" RelativePath="" ServerType="Radionomy">http://streaming.radionomy.com/RadioVocaloid</Stream>
-    </Streams>
-  </Station>
-  <Station>
     <Name>Extreme Anime Radio</Name>
     <Description><![CDATA[Keiichi.net EX² : Extreme Anime Radio is an all request, live feed station that plays your Anime, J-Pop, and J-Rock favorites from our extensive playlist of over 4000 songs. Featuring songs from Clamp Campus Detectives, Shoujo Kakumeai Utena (Girl's Revolution Utena), Gundam Wing, and Mamotte Shugogetten, we provides hours of listening pleasure without fear of hearing the same song once every three hours.]]></Description>
     <Logo>
