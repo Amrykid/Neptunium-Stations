@@ -59,6 +59,18 @@
     </Streams>
   </Station>
   <Station>
+    <Name>J1 Gold</Name>
+    <StationGroup>J1</StationGroup>
+    <Description>Pop~Enka - 1960s~1970s</Description>
+    <Logo><![CDATA[https://j1fm.tokyo/images/listenbox-j1g.jpg]]></Logo>
+    <Site>http://en.j1fm.com/</Site>
+    <Genres>J-Pop; Oldies; Folk; Country; 70s; Japanese</Genres>
+    <PrimaryLocale>JP</PrimaryLocale>
+    <Streams>
+      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html">http://cabhs37.sonixcast.com:20054/</Stream>
+    </Streams>
+  </Station>
+  <Station>
     <Name>JPopsuki</Name>
     <Description>Official Radio stream for JPopsuki 2.0</Description>
     <Logo>http://cdn-radiotime-logos.tunein.com/s136422q.png</Logo>
