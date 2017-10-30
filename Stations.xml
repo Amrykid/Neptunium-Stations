@@ -257,6 +257,7 @@
       <Message><![CDATA[asia DREAM radio]]></Message>
       <Message>asia DREAM radio stations</Message>
       <Message>asia DREAM Powerplay</Message>
+      <Message>from asia DREAM radio Japan</Message>
     </StationMessages>
   </Station>
   <Station>
@@ -279,6 +280,7 @@
       <Message><![CDATA[asia DREAM radio]]></Message>
       <Message>asia DREAM radio stations</Message>
       <Message>asia DREAM Powerplay</Message>
+      <Message>from asia DREAM radio Japan</Message>
     </StationMessages>
   </Station>
   <Station>
@@ -301,6 +303,7 @@
       <Message><![CDATA[asia DREAM radio]]></Message>
       <Message>asia DREAM radio stations</Message>
       <Message>asia DREAM Powerplay</Message>
+      <Message>from asia DREAM radio Japan</Message>
     </StationMessages>
   </Station>
   <Station>
@@ -326,6 +329,7 @@
       <Message>asia DREAM radio J-Club</Message>
       <Message>asia DREAM radio stations</Message>
       <Message>asia DREAM Powerplay</Message>
+      <Message>from asia DREAM radio Japan</Message>
     </StationMessages>
   </Station>
   <Station>
@@ -364,6 +368,7 @@
       <Message><![CDATA[asia DREAM radio]]></Message>
       <Message>asia DREAM Japan Hits</Message>
       <Message>Japan Hits 1</Message>
+      <Message>from asia DREAM radio Japan</Message>
     </StationMessages>
   </Station>
   <Station>
@@ -386,9 +391,10 @@
       <Message><![CDATA[asia DREAM radio]]></Message>
       <Message>asia DREAM radio stations</Message>
       <Message>asia DREAM Powerplay</Message>
+      <Message>from asia DREAM radio Japan</Message>
     </StationMessages>
   </Station>
-  <Station>
+  <!--<Station>
     <Name>LISTEN.moe</Name>
     <Description><![CDATA[LISTEN.moe, the best Anime & JPop music stream!]]></Description>
     <Logo>
@@ -403,7 +409,7 @@
         http://listen.moe:9999/
       </Stream>
     </Streams>
-  </Station>
+  </Station>-->
   <Station>
     <Name>KPOPWAY RADIO</Name>
     <Description><![CDATA[Listen all the #kpop you love, 24/7]]></Description>
