@@ -519,7 +519,7 @@
       <Stream ContentType="audio/mpeg" Bitrate="320" SampleRate="44100" ServerType="Direct">http://dj.toukufm.com:8000/stream320.mp3</Stream>
     </Streams>
   </Station>
-  <!--<Station>
+  <Station>
     <Name>R/a/dio</Name>
     <Description>Anime soundtracks and Japanese songs</Description>
     <Logo>https://r-a-d.io/assets/logo_image_small.png</Logo>
@@ -529,7 +529,7 @@
     <Background>https://pbs.twimg.com/profile_banners/833161442387980288/1487481271/1500x500</Background>
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
-      <Stream ContentType="audio/mpeg" ServerType="Icecast" RelativePath="main.mp3" RequestMetadata="False">http://relay0.r-a-d.io/</Stream>
+      <Stream ContentType="audio/mpeg" ServerType="Icecast" RelativePath="main.mp3" RequestMetadata="True">http://relay0.r-a-d.io/</Stream>
     </Streams>
-  </Station>-->
+  </Station>
 </Stations>
