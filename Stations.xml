@@ -129,6 +129,7 @@
     <Programs>
       <Program Host="DJ Jinnai" Name="The Jinfluence" HostExp="(DJ\S)?Jinnai" />
       <Program Host="Extreme Anime Radio LIVE" Name="Request Show" />
+      <Program Host="Request Show A Song Now!" HostExp="Request Show A Song Now! [.+?]" Name="Request Show" />
     </Programs>
   </Station>
   <Station>
