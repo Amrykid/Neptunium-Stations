@@ -153,10 +153,14 @@
       <Message>Sarah Yoshida [09-2016]</Message>
     </StationMessages>
     <Programs>
-      <Program Host="DJ Jinnai" Name="The Jinfluence" HostExp="(DJ\S)?Jinnai" />
+      <Program Host="DJ Jinnai" Name="The Jinfluence" HostExp="(DJ\S)?Jinnai">
+        <Listing Day="Friday" Time="3:00 GMT" />
+      </Program>
       <Program Host="Extreme Anime Radio LIVE" Name="Request Show" />
       <Program Host="Request Show A Song Now!" HostExp="Request Show A Song Now! [.+?]" Name="Request Show" />
-      <Program Host="Allvah" Name="Analog with Allvah!" />
+      <Program Host="Allvah" Name="Analog with Allvah!">
+        <Listing Day="Tuesday" Time="2:00 GMT" />
+      </Program>
     </Programs>
   </Station>
   <Station>
