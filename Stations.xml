@@ -563,5 +563,16 @@
     <Streams>
       <Stream ContentType="audio/mpeg" ServerType="Icecast" RelativePath="main.mp3" RequestMetadata="True">http://relay0.r-a-d.io/</Stream>
     </Streams>
+    <Programs AsOf="12/25/2017">
+      <Program Host="Eggmun" Name="Smooth jazz, acoustic and chill tunes">
+        <Listing Day="Tuesday" Time="21:00 GMT" />
+      </Program>
+      <Program Host="kipukun" Name="Vintage funk and city pop">
+        <Listing Day="Saturday" Time="19:00 GMT" />
+      </Program>
+      <Program Host="McDoogle" Name="Weekly Wildcard Block">
+        <Listing Day="Sunday" Time="00:00 GMT" EndTime="4:00 GMT" />
+      </Program>
+    </Programs>
   </Station>
 </Stations>
