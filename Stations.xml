@@ -599,7 +599,7 @@
       <Program Host="kipukun" Name="Vintage funk and city pop" Style="Hosted">
         <Listing Day="Saturday" Time="19:00 GMT" />
       </Program>
-      <Program Host="McDoogle" Name="Weekly Wildcard Block" Style="HostedBlock">
+      <Program Host="McDoogle" Name="Weekly Wildcard Block" Style="Hosted">
         <Listing Day="Sunday" Time="00:00 GMT" EndTime="4:00 GMT" />
       </Program>
     </Programs>
