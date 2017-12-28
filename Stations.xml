@@ -33,6 +33,35 @@
       <Stream ContentType="audio/mpeg" Bitrate="192" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html">http://itori.animenfo.com:443/</Stream>
       <Stream ContentType="audio/mpeg" Bitrate="192" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html">http://momori.animenfo.com:8000/</Stream>
     </Streams>
+    <Programs AsOf="12/28/2017">
+      <!-- todo: add more from: https://www.animenfo.com/radio/schedule.php -->
+      <Program Name="Open Anime Block" Style="Block">
+        <Listing Day="Monday" Time="3:00 GMT" EndTime="4:59 GMT" />
+        <Listing Day="Wednesday" Time="14:00 GMT" EndTime="21:59 GMT" />
+      </Program>
+      <Program Name="Open Anime Retro" Style="Block">
+        <Listing Day="Thursday" Time="18:00 GMT" EndTime="18:59 GMT" />
+      </Program>
+      <Program Name="JPop" Style="Block">
+        <Listing Day="Monday" Time="21:00 GMT" EndTime="21:59 GMT" />
+        <Listing Day="Tuesday" Time="7:00 GMT" EndTime="7:59 GMT" />
+        <Listing Day="Tuesday" Time="17:00 GMT" EndTime="17:59 GMT" />
+        <Listing Day="Wednesday" Time="3:00 GMT" EndTime="3:59 GMT" />
+        <Listing Day="Thursday" Time="7:00 GMT" EndTime="7:59 GMT" />
+        <Listing Day="Thursday" Time="11:00 GMT" EndTime="11:59 GMT" />
+        <Listing Day="Thursday" Time="21:00 GMT" EndTime="21:59 GMT" />
+        <Listing Day="Saturday" Time="6:00 GMT" EndTime="6:59 GMT" />
+      </Program>
+      <Program Name="JRock" Style="Block">
+        <Listing Day="Tuesday" Time="21:00 GMT" EndTime="21:59 GMT" />
+        <Listing Day="Wednesday" Time="11:00 GMT" EndTime="11:59 GMT" />
+        <Listing Day="Thursday" Time="17:00 GMT" EndTime="17:59 GMT" />
+        <Listing Day="Friday" Time="7:00 GMT" EndTime="7:59 GMT" />
+        <Listing Day="Saturday" Time="5:00 GMT" EndTime="5:59 GMT" />
+        <Listing Day="Sunday" Time="1:00 GMT" EndTime="1:59 GMT" />
+        <Listing Day="Sunday" Time="17:00 GMT" EndTime="17:59 GMT" />
+      </Program>
+    </Programs>
   </Station>
     <Station>
     <Name>Armitage's Dimension</Name>
@@ -564,13 +593,13 @@
       <Stream ContentType="audio/mpeg" ServerType="Icecast" RelativePath="main.mp3" RequestMetadata="True">http://relay0.r-a-d.io/</Stream>
     </Streams>
     <Programs AsOf="12/25/2017">
-      <Program Host="Eggmun" Name="Smooth jazz, acoustic and chill tunes">
+      <Program Host="Eggmun" Name="Smooth jazz, acoustic and chill tunes" Style="Hosted">
         <Listing Day="Tuesday" Time="21:00 GMT" />
       </Program>
-      <Program Host="kipukun" Name="Vintage funk and city pop">
+      <Program Host="kipukun" Name="Vintage funk and city pop" Style="Hosted">
         <Listing Day="Saturday" Time="19:00 GMT" />
       </Program>
-      <Program Host="McDoogle" Name="Weekly Wildcard Block">
+      <Program Host="McDoogle" Name="Weekly Wildcard Block" Style="HostedBlock">
         <Listing Day="Sunday" Time="00:00 GMT" EndTime="4:00 GMT" />
       </Program>
     </Programs>
