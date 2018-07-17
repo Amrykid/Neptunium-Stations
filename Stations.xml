@@ -98,7 +98,7 @@
     <Genres>J-Pop; J-Rock; Pop</Genres>
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="192" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html">http://cabhs30.sonixcast.com:9774/</Stream>
+      <Stream ContentType="audio/mpeg" Bitrate="192" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html">http://sky1.torontocast.com:9041/j1</Stream>
     </Streams>
   </Station>
   <Station>
@@ -110,7 +110,7 @@
     <Genres>J-Pop; J-Rock; Pop</Genres>
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="192" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html">http://cabhs31.sonixcast.com:20080/</Stream>
+      <Stream ContentType="audio/mpeg" Bitrate="192" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html">http://sky1.torontocast.com:9061/</Stream>
     </Streams>
   </Station>
   <Station>
@@ -122,7 +122,19 @@
     <Genres>J-Pop; Oldies; Folk; Country; 70s; Japanese</Genres>
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html">http://cabhs37.sonixcast.com:20054/</Stream>
+      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html">http://sky1.torontocast.com:9069/</Stream>
+    </Streams>
+  </Station>
+  <Station>
+    <Name>J1 - a-chan</Name>
+    <StationGroup>J1</StationGroup>
+    <Description>a-chan: for Anime </Description>
+    <Logo><![CDATA[https://j1fm.com/images/a-chan_500.png]]></Logo>
+    <Site>http://en.j1fm.com/</Site>
+    <Genres>Anime</Genres>
+    <PrimaryLocale>JP</PrimaryLocale>
+    <Streams>
+      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html">http://sky1.torontocast.com:9073/j1</Stream>
     </Streams>
   </Station>
   <Station>
@@ -227,7 +239,7 @@
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
       <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Radionomy">
-        http://cabhs32.sonixcast.com:20004/stream/; 
+        http://agnes.torontocast.com:8083/stream/;
       </Stream>
     </Streams>
     <StationMessages>
@@ -249,7 +261,7 @@
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
       <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Radionomy">
-        http://cabhs33.sonixcast.com:20012/stream/; 
+        http://agnes.torontocast.com:8011/stream/;
       </Stream>
     </Streams>
     <StationMessages>
@@ -299,179 +311,6 @@
     </Streams>
   </Station>
   <Station>
-    <Name>J-Pop Christmas</Name>
-    <StationGroup>asia DREAM radio</StationGroup>
-    <Description><![CDATA[J-Pop Christmas]]></Description>
-    <Logo>
-      <![CDATA[http://www.jpoppowerplay.tokyo/stations/images/stations/jc2_g152i1.png]]>
-    </Logo>
-    <Site>http://www.jpoppowerplay.tokyo/stations/index.html</Site>
-    <Genres><![CDATA[J-Pop; Christmas]]></Genres>
-    <Background>http://qantumthemes.com/demo/onair/wp-content/uploads/2015/06/wordpress-radio-theme-post-0041.jpg</Background>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Shoutcast" RelativePath=";">
-        http://149.56.23.7:20278/stream
-      </Stream>
-    </Streams>
-    <StationMessages>
-      <Message><![CDATA[asia DREAM radio]]></Message>
-      <Message>asia DREAM radio stations</Message>
-      <Message>asia DREAM Powerplay</Message>
-      <Message>from asia DREAM radio Japan</Message>
-    </StationMessages>
-  </Station>
-  <Station>
-    <Name>J-Pop Powerplay</Name>
-    <StationGroup>asia DREAM radio</StationGroup>
-    <Description><![CDATA[Japanese Pop]]></Description>
-    <Logo>
-      <![CDATA[http://www.jpoppowerplay.tokyo/stations/images/stations/powerplayjpop16_g152i0.jpg]]>
-    </Logo>
-    <Site>http://www.jpoppowerplay.tokyo/stations/index.html</Site>
-    <Genres><![CDATA[J-Pop; Pop]]></Genres>
-    <Background>http://qantumthemes.com/demo/onair/wp-content/uploads/2015/06/wordpress-radio-theme-post-0041.jpg</Background>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Shoutcast" RelativePath=";">
-        http://cabhs30.sonixcast.com:9628/stream
-      </Stream>
-    </Streams>
-    <StationMessages>
-      <Message><![CDATA[asia DREAM radio]]></Message>
-      <Message>asia DREAM radio stations</Message>
-      <Message>asia DREAM Powerplay</Message>
-      <Message>from asia DREAM radio Japan</Message>
-    </StationMessages>
-  </Station>
-  <Station>
-    <Name>J-Pop Powerplay Kawaii</Name>
-    <StationGroup>asia DREAM radio</StationGroup>
-    <Description><![CDATA[J-Pop Powerplay Kawaii]]></Description>
-    <Logo>
-      <![CDATA[http://www.jpoppowerplay.tokyo/stations/images/stations/ppkawaii_g66i5.jpg]]>
-    </Logo>
-    <Site>http://www.jpoppowerplay.tokyo/stations/index.html</Site>
-    <Genres><![CDATA[J-Pop; Kawaii]]></Genres>
-    <Background>http://qantumthemes.com/demo/onair/wp-content/uploads/2015/06/wordpress-radio-theme-post-0041.jpg</Background>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Shoutcast" RelativePath=";">
-        http://149.56.23.7:20002/stream
-      </Stream>
-    </Streams>
-    <StationMessages>
-      <Message><![CDATA[asia DREAM radio]]></Message>
-      <Message>asia DREAM radio stations</Message>
-      <Message>asia DREAM Powerplay</Message>
-      <Message>from asia DREAM radio Japan</Message>
-    </StationMessages>
-  </Station>
-  <Station>
-    <Name>J-Club Powerplay HipHop</Name>
-    <StationGroup>asia DREAM radio</StationGroup>
-    <Description><![CDATA[J-Club Powerplay HipHop]]></Description>
-    <Logo>
-      <![CDATA[http://www.jpoppowerplay.tokyo/stations/images/stations/jclubhiphop_g66i2.jpg]]>
-    </Logo>
-    <Site>http://www.jpoppowerplay.tokyo/stations/index.html</Site>
-    <Genres><![CDATA[J-Pop; HipHop]]></Genres>
-    <Background>http://qantumthemes.com/demo/onair/wp-content/uploads/2015/06/wordpress-radio-theme-post-0041.jpg</Background>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Shoutcast" RelativePath=";">
-        http://198.27.65.120:20216/stream
-      </Stream>
-    </Streams>
-    <StationMessages>
-      <Message><![CDATA[asia DREAM radio]]></Message>
-      <Message><![CDATA[HipHop]]></Message>
-      <Message>J-Club Short</Message>
-      <Message>asia DREAM radio J-Club</Message>
-      <Message>asia DREAM radio stations</Message>
-      <Message>asia DREAM Powerplay</Message>
-      <Message>from asia DREAM radio Japan</Message>
-    </StationMessages>
-  </Station>
-  <Station>
-    <Name>Japan Hits</Name>
-    <StationGroup>asia DREAM radio</StationGroup>
-    <Description><![CDATA[Japan Hits]]></Description>
-    <Logo>
-      <![CDATA[http://www.jpoppowerplay.tokyo/stations/images/stations/japanhits_g66i1.jpg]]>
-    </Logo>
-    <Site>http://www.jpoppowerplay.tokyo/stations/index.html</Site>
-    <Genres><![CDATA[J-Pop; J-Rock; Pop; Hits]]></Genres>
-    <Background>http://qantumthemes.com/demo/onair/wp-content/uploads/2015/06/wordpress-radio-theme-post-0041.jpg</Background>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Shoutcast" RelativePath=";">
-        http://192.99.62.212:9764/stream
-      </Stream>
-    </Streams>
-    <StationMessages>
-      <Message><![CDATA[Merry Christmas & Happy New Year 1]]></Message>
-      <Message><![CDATA[Merry Christmas & Happy New Year 2]]></Message>
-      <Message><![CDATA[Merry Christmas & Happy New Year 3]]></Message>
-      <Message><![CDATA[It's an AKB48 Christmas]]></Message>
-      <Message><![CDATA[Christmas Short 1]]></Message>
-      <Message><![CDATA[Christmas Short 2]]></Message>
-      <Message><![CDATA[J-Pop Christmas Exile]]></Message>
-      <Message><![CDATA[The Heart Of J-Pop Music]]></Message>
-      <Message><![CDATA[J-Pop Powerplay]]></Message>
-      <Message>asia DREAM radio stations</Message>
-      <Message>asia DREAM Powerplay</Message>
-      <Message><![CDATA[Japan Hits]]></Message>
-      <Message><![CDATA[asia DREAM radio japan]]></Message>
-      <Message><![CDATA[Happy New Year]]></Message>
-      <Message><![CDATA[This is asia DREAM radio]]></Message>
-      <Message><![CDATA[asiadreamradio.com]]></Message>
-      <Message><![CDATA[asia DREAM radio]]></Message>
-      <Message>asia DREAM Japan Hits</Message>
-      <Message>Japan Hits 1</Message>
-      <Message>from asia DREAM radio Japan</Message>
-    </StationMessages>
-  </Station>
-  <Station>
-    <Name>J-Rock Powerplay</Name>
-    <StationGroup>asia DREAM radio</StationGroup>
-    <Description><![CDATA[Japanese Rock]]></Description>
-    <Logo>
-      <![CDATA[http://www.jpoppowerplay.tokyo/stations/images/stations/jrockpowerplay-2_g66i3.jpg]]>
-    </Logo>
-    <Site>http://www.jpoppowerplay.tokyo/stations/index.html</Site>
-    <Genres><![CDATA[J-Rock; Rock; Hits]]></Genres>
-    <Background>http://qantumthemes.com/demo/onair/wp-content/uploads/2015/06/wordpress-radio-theme-post-0041.jpg</Background>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Shoutcast" RelativePath=";">
-        http://192.99.62.212:9508/stream
-      </Stream>
-    </Streams>
-    <StationMessages>
-      <Message><![CDATA[asia DREAM radio]]></Message>
-      <Message>asia DREAM radio stations</Message>
-      <Message>asia DREAM Powerplay</Message>
-      <Message>from asia DREAM radio Japan</Message>
-    </StationMessages>
-  </Station>
-  <!--<Station>
-    <Name>LISTEN.moe</Name>
-    <Description><![CDATA[LISTEN.moe, the best Anime & JPop music stream!]]></Description>
-    <Logo>
-      <![CDATA[https://pbs.twimg.com/profile_images/792630035832266752/mmry-djk.jpg]]>
-    </Logo>
-    <Site>https://listen.moe/</Site>
-    <Genres><![CDATA[Anime; J-Pop]]></Genres>
-    <Background>https://pbs.twimg.com/profile_banners/792628294793433088/1477813088/1500x500</Background>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/aac" Bitrate="192" SampleRate="44100" ServerType="Icecast" RelativePath="fallback">
-        http://listen.moe:9999/
-      </Stream>
-    </Streams>
-  </Station>-->
-  <Station>
     <Name>KPOPWAY RADIO</Name>
     <Description><![CDATA[Listen all the #kpop you love, 24/7]]></Description>
     <Logo>
@@ -482,7 +321,7 @@
     <PrimaryLocale>KR</PrimaryLocale>
     <Streams>
       <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" ServerType="Shoutcast" RelativePath=";">
-        http://198.105.214.140:6469/Live
+        https://streamer.radio.co/s06b196587/listen
       </Stream>
     </Streams>
   </Station>
