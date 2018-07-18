@@ -136,6 +136,10 @@
     <Streams>
       <Stream ContentType="audio/mpeg" Bitrate="128" SampleRate="44100" RelativePath=";" ServerType="Shoutcast" HistoryPath="/played.html">http://sky1.torontocast.com:9073/j1</Stream>
     </Streams>
+    <StationMessages>
+      <Message><![CDATA[ID - A-chan from J1]]></Message>
+      <Message><![CDATA[A-chan from J1 - ID]]></Message>
+    </StationMessages>
   </Station>
   <Station>
     <Name>JPopsuki</Name>
