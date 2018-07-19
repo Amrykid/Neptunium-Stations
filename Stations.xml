@@ -254,7 +254,7 @@
   </Station>
   <Station>
     <Name>J-Idols Project Radio</Name>
-    <Description><![CDATA[J-POP]]></Description>
+    <Description><![CDATA[J-POP; Idols]]></Description>
     <StationGroup>Project Radio</StationGroup>
     <Logo>
       <![CDATA[https://image.jimcdn.com/app/cms/image/transf/none/path/s388055b613af0521/image/i347fe98b4102c8f6/version/1497035770/image.png]]>
@@ -272,6 +272,7 @@
       <Message><![CDATA[Station Christmas 1]]></Message>
       <Message><![CDATA[Station Christmas 2]]></Message>
       <Message><![CDATA[Station Christmas 3]]></Message>
+      <Message><![CDATA[J-Idols Project Radio - J-Idols Jingle 24]]></Message>
     </StationMessages>
   </Station>
   <Station>
