@@ -458,7 +458,8 @@
     <Background>https://pbs.twimg.com/profile_banners/990106686173204480/1524895001/1500x500</Background>
     <PrimaryLocale>JP</PrimaryLocale>
     <Streams>
-      <Stream ContentType="audio/mpeg" ServerType="Shoutcast" RelativePath=";">http://curiosity.shoutca.st:6110/</Stream>
+      <Stream ContentType="audio/aac" ServerType="Shoutcast" RelativePath=";" Bitrate="64">http://perseus.shoutca.st:8087/</Stream>
+      <Stream ContentType="audio/mpeg" ServerType="Shoutcast" RelativePath=";" Bitrate="192">http://curiosity.shoutca.st:6110/</Stream>
     </Streams>
   </Station>
 </Stations>
