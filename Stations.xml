@@ -448,4 +448,17 @@
       </Program>
     </Programs>
   </Station>
+  <Station>
+    <Name>Anime Blast Radio - The BLAST</Name>
+    <Description>Anime Blast Radio - The BLAST is the internet's best place for anime show opening and ending songs.</Description>
+    <Logo>https://pbs.twimg.com/profile_images/991406490643714048/oW3V2T6P_400x400.jpg</Logo>
+    <Site>https://www.animeblastradio.com/</Site>
+    <Twitter>https://twitter.com/blast_anime</Twitter>
+    <Genres>Anime; Soundtrack; Japanese; J-Pop; Mix</Genres>
+    <Background>https://pbs.twimg.com/profile_banners/990106686173204480/1524895001/1500x500</Background>
+    <PrimaryLocale>JP</PrimaryLocale>
+    <Streams>
+      <Stream ContentType="audio/mpeg" ServerType="Shoutcast" RelativePath=";">http://curiosity.shoutca.st:6110/</Stream>
+    </Streams>
+  </Station>
 </Stations>
