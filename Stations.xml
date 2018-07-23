@@ -461,5 +461,9 @@
       <Stream ContentType="audio/aac" ServerType="Shoutcast" RelativePath=";" Bitrate="64">http://perseus.shoutca.st:8087/</Stream>
       <Stream ContentType="audio/mpeg" ServerType="Shoutcast" RelativePath=";" Bitrate="192">http://curiosity.shoutca.st:6110/</Stream>
     </Streams>
+    <StationMessages>
+      <Message><![CDATA[Station ID - Anime Blast Radio The BLAST]]></Message>
+      <Message><![CDATA[Anime Blast Radio The BLAST - Station ID]]></Message>
+    </StationMessages>
   </Station>
 </Stations>
