@@ -250,6 +250,8 @@
       <Message><![CDATA[Station Christmas 1]]></Message>
       <Message><![CDATA[Station Christmas 2]]></Message>
       <Message><![CDATA[Station Christmas 3]]></Message>
+      <Message><![CDATA[J-Pop Project Radio - Station Jingle 29]]></Message>
+      <Message><![CDATA[Station Jingle 29 - J-Pop Project Radio]]></Message>
     </StationMessages>
   </Station>
   <Station>
@@ -449,7 +451,7 @@
     </Programs>
   </Station>
   <Station>
-    <Name>Anime Blast Radio - The BLAST</Name>
+    <Name>Anime Blast Radio</Name>
     <Description>Anime Blast Radio - The BLAST is the internet's best place for anime show opening and ending songs.</Description>
     <Logo>https://pbs.twimg.com/profile_images/991406490643714048/oW3V2T6P_400x400.jpg</Logo>
     <Site>https://www.animeblastradio.com/</Site>
