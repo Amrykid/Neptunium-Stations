@@ -469,5 +469,48 @@
       <Message><![CDATA[TheChze Promo - TheChze]]></Message>
       <Message><![CDATA[TheChze - TheChze Promo]]></Message>
     </StationMessages>
+    <Programs AsOf="8/10/2018">
+      <Program Name="New Releases">
+        <Listing Day="Sunday" Time="8:00 GMT" EndTime="10:00 GMT" />
+        <Listing Day="Monday" Time="8:00 GMT" EndTime="10:00 GMT" />
+        <Listing Day="Tuesday" Time="8:00 GMT" EndTime="10:00 GMT" />
+        <Listing Day="Wednesday" Time="8:00 GMT" EndTime="10:00 GMT" />
+        <Listing Day="Thursday" Time="8:00 GMT" EndTime="10:00 GMT" />
+        <Listing Day="Friday" Time="8:00 GMT" EndTime="10:00 GMT" />
+        <Listing Day="Saturday" Time="8:00 GMT" EndTime="10:00 GMT" />
+        <Listing Day="Sunday" Time="17:00 GMT" EndTime="19:00 GMT" />
+        <Listing Day="Monday" Time="17:00 GMT" EndTime="19:00 GMT" />
+        <Listing Day="Tuesday" Time="17:00 GMT" EndTime="19:00 GMT" />
+        <Listing Day="Wednesday" Time="17:00 GMT" EndTime="19:00 GMT" />
+        <Listing Day="Thursday" Time="17:00 GMT" EndTime="19:00 GMT" />
+        <Listing Day="Friday" Time="17:00 GMT" EndTime="19:00 GMT" />
+        <Listing Day="Sunday" Time="23:00 GMT" EndTime="1:00 GMT" />
+        <Listing Day="Monday" Time="23:00 GMT" EndTime="1:00 GMT" />
+        <Listing Day="Tuesday" Time="23:00 GMT" EndTime="1:00 GMT" />
+        <Listing Day="Wednesday" Time="23:00 GMT" EndTime="1:00 GMT" />
+        <Listing Day="Thursday" Time="23:00 GMT" EndTime="1:00 GMT" />
+        <Listing Day="Friday" Time="23:00 GMT" EndTime="1:00 GMT" />
+        <Listing Day="Saturday" Time="23:00 GMT" EndTime="1:00 GMT" />
+      </Program>
+      <Program Name="Uplifting Anime">
+        <Listing Day="Sunday" Time="14:00 GMT" EndTime="16:00 GMT" />
+        <Listing Day="Monday" Time="14:00 GMT" EndTime="16:00 GMT" />
+        <Listing Day="Tuesday" Time="14:00 GMT" EndTime="16:00 GMT" />
+        <Listing Day="Wednesday" Time="14:00 GMT" EndTime="16:00 GMT" />
+        <Listing Day="Thursday" Time="14:00 GMT" EndTime="16:00 GMT" />
+        <Listing Day="Friday" Time="14:00 GMT" EndTime="16:00 GMT" />
+        <Listing Day="Saturday" Time="14:00 GMT" EndTime="16:00 GMT" />
+        <Listing Day="Sunday" Time="3:00 GMT" EndTime="5:00 GMT" />
+        <Listing Day="Monday" Time="3:00 GMT" EndTime="5:00 GMT" />
+        <Listing Day="Tuesday" Time="3:00 GMT" EndTime="5:00 GMT" />
+        <Listing Day="Wednesday" Time="3:00 GMT" EndTime="5:00 GMT" />
+        <Listing Day="Thursday" Time="3:00 GMT" EndTime="5:00 GMT" />
+        <Listing Day="Friday" Time="3:00 GMT" EndTime="5:00 GMT" />
+        <Listing Day="Saturday" Time="3:00 GMT" EndTime="5:00 GMT" />
+      </Program>
+      <Program Name="Anime Archive">
+        <Listing Day="Sunday" Time="17:00 GMT" EndTime="22:00 GMT" />
+      </Program>
+    </Programs>
   </Station>
 </Stations>
