@@ -78,7 +78,7 @@
   <Station>
     <Name>Anison FM</Name>
     <Description><![CDATA[Anison.FM is musical entertainment anime radio for fans of anime.]]></Description>
-    <Logo>http://anison-a.akamaihd.net/images/main_visual.png?v=2</Logo>
+    <Logo>https://anison.fm/images/logo-og.png</Logo>
     <Site>https://en.anison.fm/</Site>
     <Genres>Anime</Genres>
     <Background>https://en.anison.fm/images/bg_t.png</Background>
