@@ -318,7 +318,8 @@
       </Stream>
     </Streams>
   </Station>
-  <Station>
+  <!-- https isn't supported currently. -->
+  <!--<Station>
     <Name>KPOPWAY RADIO</Name>
     <Description><![CDATA[Listen all the #kpop you love, 24/7]]></Description>
     <Logo>
@@ -332,7 +333,7 @@
         https://streamer.radio.co/s06b196587/listen
       </Stream>
     </Streams>
-  </Station>
+  </Station>-->
   <Station>
     <Name>Aewen Radio (K-Pop)</Name>
     <Description><![CDATA[Your Online KPOP & KMUSIC Station]]></Description>
@@ -382,23 +383,6 @@
     </Streams>
   </Station>
   <Station>
-    <Name>NyanServer J-Trance</Name>
-    <Description><![CDATA[Japanese Trance and Electronic music]]></Description>
-    <Logo>
-      <![CDATA[http://cdn-radiotime-logos.tunein.com/s205032q.png]]>
-    </Logo>
-    <Site>http://radio.nyan.pw</Site>
-    <!--https://twitter.com/nyanprojects--> 
-    <!--http://nyanserver.com:8000/-->
-    <Genres><![CDATA[J-Trance; Trance; Nyancore; Electronic]]></Genres>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/mpeg" ServerType="Icecast">
-        http://radio.nyan.pw/station/stream
-      </Stream>
-    </Streams>
-  </Station>
-  <Station>
     <Name>Vocaloid Radio</Name>
     <Description><![CDATA[Fan ran, non-profit Vocaloid Radio station.]]></Description>
     <Logo>
@@ -412,19 +396,6 @@
       <Stream ContentType="audio/mpeg" Bitrate="192" SampleRate="44100" ServerType="Shoutcast" RelativePath="stream">
         http://curiosity.shoutca.st:8019/
       </Stream>
-    </Streams>
-  </Station>
-  <Station>
-    <Name>ToukuFM</Name>
-    <Description>ToukuFM is a world-wide radio station dedicated to bringing anime music and remixes, doujin music, J-core, and J-EDM to Western audiences!</Description>
-    <Logo>http://cdn-radiotime-logos.tunein.com/s253998q.png</Logo>
-    <Background>https://toukufm.com/images/bg/shibuya.jpg</Background>
-    <Site>https://toukufm.com/</Site>
-    <Genres>Anime; J-Core; J-EDM; Doujin</Genres>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/mpeg" Bitrate="120" SampleRate="44100" ServerType="Direct">http://dj.toukufm.com:8000/stream128.mp3</Stream>
-      <Stream ContentType="audio/mpeg" Bitrate="320" SampleRate="44100" ServerType="Direct">http://dj.toukufm.com:8000/stream320.mp3</Stream>
     </Streams>
   </Station>
   <Station>
@@ -448,69 +419,6 @@
       </Program>
       <Program Host="McDoogle" Name="Weekly Wildcard Block" Style="Hosted">
         <Listing Day="Sunday" Time="00:00 GMT" EndTime="4:00 GMT" />
-      </Program>
-    </Programs>
-  </Station>
-  <Station>
-    <Name>Anime Blast Radio</Name>
-    <Description>Anime Blast Radio - The BLAST is the internet's best place for anime show opening and ending songs.</Description>
-    <Logo>https://pbs.twimg.com/profile_images/991406490643714048/oW3V2T6P_400x400.jpg</Logo>
-    <Site>https://www.animeblastradio.com/</Site>
-    <Twitter>https://twitter.com/blast_anime</Twitter>
-    <Genres>Anime; Soundtrack; Japanese; J-Pop; Mix</Genres>
-    <Background>https://pbs.twimg.com/profile_banners/990106686173204480/1524895001/1500x500</Background>
-    <PrimaryLocale>JP</PrimaryLocale>
-    <Streams>
-      <Stream ContentType="audio/aac" ServerType="Shoutcast" RelativePath=";" Bitrate="64">http://perseus.shoutca.st:8087/</Stream>
-      <Stream ContentType="audio/mpeg" ServerType="Shoutcast" RelativePath=";" Bitrate="192">http://curiosity.shoutca.st:6110/</Stream>
-    </Streams>
-    <StationMessages>
-      <Message><![CDATA[Station ID - Anime Blast Radio The BLAST]]></Message>
-      <Message><![CDATA[Anime Blast Radio The BLAST - Station ID]]></Message>
-      <Message><![CDATA[TheChze Promo - TheChze]]></Message>
-      <Message><![CDATA[TheChze - TheChze Promo]]></Message>
-    </StationMessages>
-    <Programs AsOf="8/10/2018">
-      <Program Name="New Releases">
-        <Listing Day="Sunday" Time="8:00 GMT" EndTime="10:00 GMT" />
-        <Listing Day="Monday" Time="8:00 GMT" EndTime="10:00 GMT" />
-        <Listing Day="Tuesday" Time="8:00 GMT" EndTime="10:00 GMT" />
-        <Listing Day="Wednesday" Time="8:00 GMT" EndTime="10:00 GMT" />
-        <Listing Day="Thursday" Time="8:00 GMT" EndTime="10:00 GMT" />
-        <Listing Day="Friday" Time="8:00 GMT" EndTime="10:00 GMT" />
-        <Listing Day="Saturday" Time="8:00 GMT" EndTime="10:00 GMT" />
-        <Listing Day="Sunday" Time="17:00 GMT" EndTime="19:00 GMT" />
-        <Listing Day="Monday" Time="17:00 GMT" EndTime="19:00 GMT" />
-        <Listing Day="Tuesday" Time="17:00 GMT" EndTime="19:00 GMT" />
-        <Listing Day="Wednesday" Time="17:00 GMT" EndTime="19:00 GMT" />
-        <Listing Day="Thursday" Time="17:00 GMT" EndTime="19:00 GMT" />
-        <Listing Day="Friday" Time="17:00 GMT" EndTime="19:00 GMT" />
-        <Listing Day="Sunday" Time="23:00 GMT" EndTime="1:00 GMT" />
-        <Listing Day="Monday" Time="23:00 GMT" EndTime="1:00 GMT" />
-        <Listing Day="Tuesday" Time="23:00 GMT" EndTime="1:00 GMT" />
-        <Listing Day="Wednesday" Time="23:00 GMT" EndTime="1:00 GMT" />
-        <Listing Day="Thursday" Time="23:00 GMT" EndTime="1:00 GMT" />
-        <Listing Day="Friday" Time="23:00 GMT" EndTime="1:00 GMT" />
-        <Listing Day="Saturday" Time="23:00 GMT" EndTime="1:00 GMT" />
-      </Program>
-      <Program Name="Uplifting Anime">
-        <Listing Day="Sunday" Time="14:00 GMT" EndTime="16:00 GMT" />
-        <Listing Day="Monday" Time="14:00 GMT" EndTime="16:00 GMT" />
-        <Listing Day="Tuesday" Time="14:00 GMT" EndTime="16:00 GMT" />
-        <Listing Day="Wednesday" Time="14:00 GMT" EndTime="16:00 GMT" />
-        <Listing Day="Thursday" Time="14:00 GMT" EndTime="16:00 GMT" />
-        <Listing Day="Friday" Time="14:00 GMT" EndTime="16:00 GMT" />
-        <Listing Day="Saturday" Time="14:00 GMT" EndTime="16:00 GMT" />
-        <Listing Day="Sunday" Time="3:00 GMT" EndTime="5:00 GMT" />
-        <Listing Day="Monday" Time="3:00 GMT" EndTime="5:00 GMT" />
-        <Listing Day="Tuesday" Time="3:00 GMT" EndTime="5:00 GMT" />
-        <Listing Day="Wednesday" Time="3:00 GMT" EndTime="5:00 GMT" />
-        <Listing Day="Thursday" Time="3:00 GMT" EndTime="5:00 GMT" />
-        <Listing Day="Friday" Time="3:00 GMT" EndTime="5:00 GMT" />
-        <Listing Day="Saturday" Time="3:00 GMT" EndTime="5:00 GMT" />
-      </Program>
-      <Program Name="Anime Archive">
-        <Listing Day="Sunday" Time="17:00 GMT" EndTime="22:00 GMT" />
       </Program>
     </Programs>
   </Station>
